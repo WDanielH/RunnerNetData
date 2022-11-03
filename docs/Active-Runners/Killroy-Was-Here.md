@@ -34,3 +34,4 @@
 | Big Trouble in Not so Little Downtown Seattle | Extracted a VIP in a bloodless clean Run Utilizing a smuggling compartment in his Rig. |
 | Taco Tuesday | Nothing of Note.  A milk run. |
 
+[Download Original Charactersheet](./assets/Killroy.pdf)

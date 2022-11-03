@@ -19,3 +19,6 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+
+[Download Original Charactersheet](./assets/Zooma.pdf)

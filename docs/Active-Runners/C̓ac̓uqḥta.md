@@ -4,12 +4,18 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Unarmed Combat**||**Outdoors** |
+| || **Perception** |
 
-#### Language(s) - English
+
+#### Language(s) - English,  Nuu-chah-nulth
+
 #### Areas of Interest
-> 
+> - *Minimum Wage Odd Jobs (Hospitality)*
+- *Salish Shidhe Politics*
+
 
 #### Adept
 #### ?Augmented
@@ -19,3 +25,5 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+[Download Original Charactersheet](./assets/Cacuqhta.pdf)

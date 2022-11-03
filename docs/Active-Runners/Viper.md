@@ -4,14 +4,25 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Summoning**||**Astral** |
+| **Sorcery**|| **Firearms** |
+| || **Stealth**|
+| ||**Negotiations**| 
+| |  
 
-#### Language(s) - English
+
+#### Language(s) - English, Japanese
 #### Areas of Interest
-> 
+> - *Horticulture*
+- *Local Area Seattle*
+- *Magic Security*
+- *Magical Theory*
+- *Parabiology*
 
-#### Mundane
+
+#### Awakened
 #### Augmented
 #### If You Have Met Viper you know:
 > 
@@ -19,3 +30,5 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+[Download Original Charactersheet](./assets/Viper.pdf)

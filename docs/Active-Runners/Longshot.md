@@ -4,12 +4,21 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Athletics **||**Con** |
+| **Close Combat**|| **Influence** |
+| **Firearms**|| **Perception**|
+| **Stealth**|| **Piloting**| 
+||  
+
 
 #### Language(s) - English
 #### Areas of Interest
-> -
+> - *Military History*
+- *Seattle Black Markets*
+- *Seattle Area - U of W*
+
 
 #### Mundane
 #### Augmented
@@ -19,3 +28,5 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+[Download Original Charactersheet](./assets/Longshot.pdf)

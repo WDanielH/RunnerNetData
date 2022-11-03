@@ -4,18 +4,29 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Conjuring**||**Athletics** |
+| || **Con** |
+| || **Firearms**|
+| ||**influence**| 
+| ||**Stealth**|  
+
 
 #### Language(s) - English
 #### Areas of Interest
-> 
+> - *Blood Magic*
+- *Insect Spirits*
 
-#### Mundane
-#### Augmented
-#### If You Have Met 8-Bit you know:
+
+#### Mystic Adept
+#### Unaugmented
+#### If You Have Met Paladin, you know:
 > 
 
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+
+[Download Original Charactersheet](./assets/Paladin.pdf)

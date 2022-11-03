@@ -4,12 +4,21 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
 
-#### Language(s) - English
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Con**||**Biotech** |
+| **Influence**|| **Electronics** |
+| || **Perception**|
+| || **Piloting**|
+| 
+
+
+#### Language(s) - English, Japanese
 #### Areas of Interest
-> 
+> - *Gaming*
+- *Small Unit Tactics*
+- *Sports*
 
 #### Awakened; Adept
 #### ?Augmented
@@ -19,3 +28,6 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+
+[Download Original Charactersheet](./assets/Backstop.pdf)

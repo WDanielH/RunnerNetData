@@ -4,12 +4,24 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Rifles**||**First Aid** |
+| || **Athletics** |
+| || **Close Combat**|
+| || **Con**| 
+| || **Influence**| 
+| || **Outdoors**|  
+| || **Perception**|  
+| || **Piloting**|  
+| || **Stealth**|  
 
-#### Language(s) - English
+
+#### Language(s) - Czech, English, Or'Zet
 #### Areas of Interest
-> 
+> - *Port Operations*
+- *Sailing*
+
 
 #### Mundane
 #### Augmented
@@ -19,3 +31,6 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+
+[Download Original Charactersheet](./assets/Fisher.pdf)

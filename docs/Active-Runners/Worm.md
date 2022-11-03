@@ -19,3 +19,5 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+[Download Original Charactersheet](./assets/Worm_Techno.pdf)

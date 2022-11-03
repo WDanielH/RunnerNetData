@@ -4,12 +4,21 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Influence**||**Close Combat** |
+| || **Electronics** |
+| || **Firarms**|
+| || **Perception**|
+| || **Stealth**| 
 
-#### Language(s) - English
+
+#### Language(s) - City Speak
 #### Areas of Interest
-> 
+> - *Law Enforcement*
+- *Seattle Gangs*
+- *Runner Bars*
+
 
 #### Mundane
 #### ?Augmented
@@ -19,3 +28,5 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+[Download Original Charactersheet](./assets/Chatter_box.pdf)

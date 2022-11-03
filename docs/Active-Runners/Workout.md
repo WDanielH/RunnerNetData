@@ -4,12 +4,21 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Unarmed Combat**||**Athletics** |
+| **Performance**|| **Firearms** |
+| **Influence**|| **Visual Perception**|
+| ||| 
 
-#### Language(s) - English
+
+
+#### Language(s) - English, German
 #### Areas of Interest
-> 
+> - *Fitness and PT*
+- *Saeder-Krupp*
+- *Urban Brawl*
+
 
 #### Mundane
 #### Augmented
@@ -19,3 +28,5 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+[Download Original Charactersheet](./assets/Workout.pdf)

@@ -4,12 +4,21 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Biotech**||**Athletics** |
+| **Close Combat**|| **Electronics** |
+| || **Engineering**|
+| || **Firearms**| 
+| || **Perception**|  
+| || **Piloting**| 
+| || **Stealth**|  
 
-#### Language(s) - English
+
+#### Language(s) - English, Japanese, Chinese
 #### Areas of Interest
-> 
+> - *Combat Medic*
+- *Docwagon Inside Knowledge*
 
 #### Mundane
 #### Augmented
@@ -19,3 +28,5 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+[Download Original Charactersheet](./assets/Doc.pdf)

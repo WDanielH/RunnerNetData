@@ -4,12 +4,25 @@
 
 > 
 
-#### RunnerNET certified in:
-> 
+| RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
+| :-: |:-: |:-:|
+| **Exotic Weapons**||**Close Combat** |
+| **Athletics**|| **Engineering** |
+| **Performance**|| **Stealth**|
+| **Lockpicking**||**Firearms**| 
+| **Stealth**||**Influence**|
+|||**Perception**|
+|||**Piloting**|  
 
-#### Language(s) - English
+
+#### Language(s) - English, Japanese, Sperethial
 #### Areas of Interest
-> 
+> - *Espionage Techniques*
+- *Fine Art*
+- *High Society*
+- *Popular Music*
+- *Security Systems*
+
 
 #### Mundane
 #### Augmented
@@ -19,3 +32,6 @@
 | Run Name| Notes|
 | ----------- | ----------- |
 | Awaiting First Run | Available for Hire |
+
+
+[Download Original Charactersheet](./assets/Princess_Jenny.pdf)

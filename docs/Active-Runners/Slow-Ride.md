@@ -49,3 +49,5 @@ One of the earlier members of the RunnerNet crew, with no signs of slowing down.
 | Brawl in an Urban Environment | Events Redacted |
 | Big Trouble in Little Seattle | Events Redacted |
 | Das Boot  | Events Redacted |
+
+[Download Original Charactersheet](./assets/Slow_Ride.pdf)

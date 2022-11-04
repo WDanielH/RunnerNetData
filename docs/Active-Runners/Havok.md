@@ -7,7 +7,7 @@
 
 <details>
 <summary>Havok</summary>
-Ork Woman, 5'7", ~200lbs. Bright Magenta hair, Cyberware can light up light blue
+Ork Woman, 5'7", ~200lbs. Bright Magenta hair, Cyberware can light up light blue. Tattoo of a rose on the left side of her neck.
 </details>
 
 | RunnerNET certified [10+] in:|-| RunnerNET trained [6+] in:|
@@ -26,10 +26,24 @@ Ork Woman, 5'7", ~200lbs. Bright Magenta hair, Cyberware can light up light blue
 > - *Ork Cuisine*
 
 #### Mundane 
-> 
+> - Does not appear to have any magical inclinations
 
 #### Augmented 
-> 
+> - *Cybereyes (Electric Blue)*
+>   - *Image link*
+>   - *Camera*
+>   - *Low-Light Vision*
+>   - *Thermographic Vision*
+>   - *SmartLink*
+>   - *Flare compensation*
+> - *Cyberarm (Obvious)*
+>   - *Agility Increase*
+>   - *Strength Increase*
+>   - *Hardened*
+>   - *Shock Hand*
+> - *Data Jack*
+> - *Simrig*
+> - *Voice Modulator*
 
 #### If You Have Met Havok You Know:
 - Habit of double checking others' work if she thinks it can come back to bite her in the hoop, even if its way outside her wheelhouse.
@@ -49,10 +63,10 @@ Ork Woman, 5'7", ~200lbs. Bright Magenta hair, Cyberware can light up light blue
 #### Known Associates
 | Runner|Association| Notes|
 | :-: |:-: |:-:|
-| Buckshot | Redacted | Idiot |
-| AvanteGarde | Info Broker | A savant when it comes to information, but keep your guard up around them, pun intended |
-| Drift | Driver/Chauffeur | Minds his business, good at getting ya out fast |
-| KnuckleBones | Arms Dealer | Need to pack extra heat for a run? That razorgirl has ya covered |
+| Buckshot | Redacted | "Idiot" |
+| AvanteGarde | Info Broker | "A savant when it comes to information, but keep your guard up around them, pun intended" |
+| Drift | Driver/Chauffeur | "Minds his business, good at getting ya out fast. I trust him with my life." |
+| KnuckleBones | Arms Dealer | "Need to pack extra heat for a run? That razorgirl has ya covered" |
 
 #### Earned Karma 
 

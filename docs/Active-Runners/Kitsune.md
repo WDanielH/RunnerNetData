@@ -1,6 +1,6 @@
-# Kitsune : Role
+# Kitsune : Adept
 
-### Name: Decker, Human, 2 RunnerNET runs.
+### Name: Adept, Elf, 2 RunnerNET runs.
 
 
 > tag line
@@ -8,23 +8,26 @@
 
 | RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
 | :-: |:-: |:-:|
-| 1||2 |
-| ||  |
-| || |
-| ||| 
-| |  
+|Con||Firearms|
+|Influence|||
+|Visual Perception|||
 
-#### Language(s) - English
+#### Language(s) - Japanese, English, Cityspeak, Sperethiel
 #### Areas of Interest
-> - *Cyberdecks*
+> - Anime and Manga
+- Bushido
+- Cooking
+- Japanese Culture
+- Psychology
+- Yakuza
 
-#### Mundane 
+#### Adept
 > 
 
-#### Augmented 
+#### Unaugmented 
 > 
 
-#### If You Have Met 8-BIT You Know:
+#### If You Have Met Kitsune You Know:
 
 :::danger
 #### Spicy Secrets?

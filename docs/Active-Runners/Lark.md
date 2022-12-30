@@ -1,6 +1,6 @@
-# Lark : Decker
+# Lark : Mage
 
-### Name: Decker, Human, 2 RunnerNET runs.
+### Name: Mage, Elf, 2 RunnerNET runs.
 
 
 > tag line
@@ -8,23 +8,31 @@
 
 | RunnerNET certified [12+] in:|-| RunnerNET trained [6+] in:|
 | :-: |:-: |:-:|
-| 1||2 |
-| ||  |
-| || |
-| ||| 
-| |  
+||Close Combat|
 
-#### Language(s) - English
+
+#### Language(s) - English, Sperethiel
 #### Areas of Interest
-> - *Cyberdecks*
+> -  Astral Theory
+- Spirit Identification
+- Magical Security
+- Spell Design
+- Fencing
+- Magical Threats
+- Seattle Free Spirits
+- Parazoology
+- Parabotany
+- Tír Tairngire Politics
+- High Society Etiquette
+- Metaplanes
 
-#### Mundane 
+#### Mage
 > 
 
-#### Augmented 
+#### Unaugmented 
 > 
 
-#### If You Have Met 8-BIT You Know:
+#### If You Have Met Lark You Know:
 
 :::danger
 #### Spicy Secrets?
